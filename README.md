@@ -10,11 +10,11 @@ Nosso sistema surge como uma solução tecnológica capaz de organizar e gerenci
 
 ## Integrantes
 
-Gustavo Henrique Carvalho Ferreira
-João Lucas Piza Silva
-Kaique Silveira Sampaio
-Kaique Gabriel da Silva Paiva
-Luiz Miguel de Lira Sá
+<p>Gustavo Henrique Carvalho Ferreira</p>
+<p>João Lucas Piza Silva</p>
+<p>Kaique Silveira Sampaio</p>
+<p>Kaique Gabriel da Silva Paiva</p>
+<p>Luiz Miguel de Lira Sá</p>
 
 
 ## Orientador
