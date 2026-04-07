@@ -1,25 +1,25 @@
-# Título do Projeto
+# Cadastro e controle de produtos de usinagem
 
-`CURSO`
+`Analise e desenvolvimento de sistemas ADS`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`SEMESTRE 01`
 
-[Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.]
+Nosso sistema surge como uma solução tecnológica capaz de organizar e gerenciar ordens de serviço, cadastro de clientes, controle de peças e materiais sendo essencial para a garantia da qualidade, redução de custos e otimizar o tempo de produção.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+Gustavo Henrique Carvalho Ferreira
+João Lucas Piza Silva
+Kaique Silveira Sampaio
+Kaique Gabriel da Silva Paiva
+Luiz Miguel de Lira Sá
+
 
 ## Orientador
 
-* Nome completo do professor
+Clóvis Lemos Tavares
 
 # Documentação
 
