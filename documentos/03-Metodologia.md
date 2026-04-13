@@ -70,7 +70,7 @@ A equipe utiliza o GitHub Projects para o acompanhamento do desenvolvimento do p
 > - [Nosso link para acesso as tarefas](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-ads-2026-1-e1-proj-web-t8-pmv-ads-2026-1-e1-grupo03-projctrlprod/issues)
 
 <figure> 
-<img src="documentos/img/Solicitação02.png"
+<img src="https:/github.com/ICEI-PUC-Minas-PMV-SI/pmv-ads-2026-1-e1-proj-web-t8-pmv-ads-2026-1-e1-grupo03-projctrlprod/tree/main/documentos/img/Solicitação02.png"
   <figcaption>Nossa imagem - Tela do esquema de cores e categorias</figcaption>
 </figure> 
 
