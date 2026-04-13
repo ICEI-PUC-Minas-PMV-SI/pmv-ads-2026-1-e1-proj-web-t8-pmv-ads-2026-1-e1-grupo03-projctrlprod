@@ -74,10 +74,9 @@ A equipe utiliza o GitHub Projects para o acompanhamento do desenvolvimento do p
   <figcaption>Nossa imagem - Tela do esquema de cores e categorias</figcaption>
 </figure> 
 
-<figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
-</figure> 
+> - [Nosso link para acesso a imagem](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-ads-2026-1-e1-proj-web-t8-pmv-ads-2026-1-e1-grupo03-projctrlprod/tree/main/documentos/img/Solicitação02.png)
+
+
   
 ### Ferramentas
 
