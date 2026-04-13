@@ -67,6 +67,9 @@ A equipe utiliza o GitHub Projects para o acompanhamento do desenvolvimento do p
   <li>Testes (Tests)</li>
 </ul>
 
+> - [Nosso link para acesso as tarefas](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-ads-2026-1-e1-proj-web-t8-pmv-ads-2026-1-e1-grupo03-projctrlprod/issues)
+
+
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
     <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
