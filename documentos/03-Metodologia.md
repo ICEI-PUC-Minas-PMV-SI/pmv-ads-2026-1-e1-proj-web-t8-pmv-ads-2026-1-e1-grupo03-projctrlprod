@@ -45,6 +45,12 @@ A equipe utiliza o GitHub Projects para o acompanhamento do desenvolvimento do p
 
 [Adicione uma imagem do Kanban do projeto]
 
+
+
+
+
+
+
 > **Links Úteis**:
 > - [Planejamento de projetos para desenvolvedores](https://github.com/features/project-management/)
 > - [Sobre Projects](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
