@@ -80,9 +80,7 @@ A equipe utiliza o GitHub Projects para o acompanhamento do desenvolvimento do p
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+[Para o desenvolvimento do sistema de controle de usinagem, a equipe selecionou um conjunto de ferramentas que permitem o trabalho colaborativo e a organização assíncrona.]
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
@@ -94,5 +92,14 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 
 ### Estratégia de Organização de Codificação 
+
+Ambiente de Desenvolvimento: O código é escrito utilizando editores de texto modernos (como VS Code), focando na simplicidade do HTML5, CSS3 e JavaScript puro, conforme os requisitos não funcionais.
+
+Gestão de Código e Documentação: O GitHub foi escolhido como repositório central para garantir o versionamento e a integridade dos arquivos, permitindo que todos os membros contribuam simultaneamente na pasta codigo-fonte.
+
+Design de Interface: O Figma é utilizado para desenhar os protótipos das telas do Torneiro e do Administrador antes da codificação, garantindo que a interface seja funcional e intuitiva.
+
+Gestão de Equipe: A organização das tarefas ocorre via GitHub Projects (quadro Kanban) e a comunicação rápida do grupo é feita via WhatsApp/Teams, onde ocorrem as reuniões de alinhamento do Scrum.
+
 
 Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site são inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte). [Consulte a nossa sugestão referente a estratégia de organização de codificação a ser adotada pela equipe de desenvolvimento do projeto.]
