@@ -45,9 +45,7 @@ A equipe utiliza o GitHub Projects para o acompanhamento do desenvolvimento do p
 
 [Adicione uma imagem do Kanban do projeto]
 
-
-
-
+>- [Imagem solicitada](documentos/img/Solicitacao01.png)
 
 
 
