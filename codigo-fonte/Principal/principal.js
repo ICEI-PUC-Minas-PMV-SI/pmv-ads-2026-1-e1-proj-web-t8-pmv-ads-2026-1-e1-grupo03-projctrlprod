@@ -69,7 +69,7 @@ function CadastrarUsuario()
     else 
     {
         // 1. Pega a lista de usuários já salvos ou cria uma vazia se for o primeiro
-        let listaUsuarios = JSON.parse(localStorage.storeItem('usuarios')) || 
+        let listaUsuarios = JSON.parse(localStorage.getItem('usuarios')) ||  
         [
             { "id": 1, "usuario": "eng", "senha": "eng", "categoria": "Administrador" }
         ];
@@ -89,9 +89,6 @@ function CadastrarUsuario()
 
         // 4. Feedback e Limpeza
         alert(`✅ Usuário ${usuario} cadastrado com sucesso!`);
-        document.querySelector('.cadastro-form').reset();
-        
-        //limpar o formulário
         document.querySelector('.cadastro-form').reset();
     }
 }
